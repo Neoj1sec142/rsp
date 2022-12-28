@@ -65,7 +65,7 @@ import utime
 # while True:
 #     if button.value() == 0:
 #         print("The switch works")
-#         utime.sleep(0.5) 
+#         utime.sleep(1) 
         
 # Lesson #7 Toggle left and right
 # button = m.Pin(14, m.Pin.IN)
@@ -73,3 +73,12 @@ import utime
 #     if button.value() == 0:
 #         print("The switch works")
 #         utime.sleep(0.5) 
+
+# Lesson #8 Press Gently
+# button = m.Pin(14, m.Pin.IN)
+# while True:
+#     if button.value() == 1:
+#         print("The switch works")
+#         utime.sleep(1) 
+
+# Lesson #9 Feel the Magnetism
