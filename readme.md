@@ -13,8 +13,8 @@
 2.3 - [x] - Fading LED
 2.4 - [x] - Colorful Light
 2.5 - [x] - Reading Button Value
-2.6 - [] - Tilt It！
-2.7 - [] - Toggle Left and Right
+2.6 - [x] - Tilt It！
+2.7 - [x] - Toggle Left and Right
 2.8 - [] - Press Gently
 2.9 - [] - Feel the Magnetism
 2.10 - [] - Detect Human Movement

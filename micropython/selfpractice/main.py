@@ -66,3 +66,10 @@ import utime
 #     if button.value() == 0:
 #         print("The switch works")
 #         utime.sleep(0.5) 
+        
+# Lesson #7 Toggle left and right
+# button = m.Pin(14, m.Pin.IN)
+# while True:
+#     if button.value() == 0:
+#         print("The switch works")
+#         utime.sleep(0.5) 
