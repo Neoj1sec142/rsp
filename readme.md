@@ -16,14 +16,14 @@
 2.6 - [x] - Tilt It！
 2.7 - [x] - Toggle Left and Right
 2.8 - [x] - Press Gently
-2.9 - [] - Feel the Magnetism
-2.10 - [] - Detect Human Movement
-2.11 - [] - Turn the Knob
-2.12 - [] - Feel the Light
-2.13 - [] - Thermometer
-2.14 - [] - Feel the Water Level
-2.15 - [] - Two Kinds of Transistors
-2.16 - [] - Control Another Circuit
+2.9 - [x] - Feel the Magnetism
+2.10 - [x] - Detect Human Movement [Notes](./assets/infrared.md)
+2.11 - [x] - Turn the Knob
+2.12 - [x] - Feel the Light [Notes](./assets/photoresister.md)
+2.13 - [x] - Thermometer [Notes](./assets/thermo.md)
+2.14 - [x] - Feel the Water Level [Notes](./assets/water.md)
+2.15 - [x] - Two Kinds of Transistors
+2.16 - [x] - Control Another Circuit
 3.1 - [] - Beep
 3.2 - [] - Custom Tone
 3.3 - [] - RGB LED Strip
